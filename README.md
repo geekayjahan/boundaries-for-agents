@@ -54,6 +54,10 @@ The role has a name now and the seat is open. There is no certification, no perm
 
 The spec is how you stay in the room when you are not in the room.
 
+## Go further
+
+This kit comes from one lesson. The [Product Builder Certification by GK](https://maven.com/level-up-with-ai/product-builder-certification-spec-driven-ai-agents?utm_source=github&utm_medium=repo&utm_campaign=pbc-dec26&utm_content=gh-boundaries-for-agents) teaches the full method over two weeks: a spec for a real problem, AI agents building from it in Claude Code, evals that prove it works, and a live deployment.
+
 ---
 
 **GK** · [LinkedIn](https://linkedin.com/in/gayathri-keerthana/) · [Substack](https://aibarraiser.substack.com/) · [flywheelbygk.com](https://flywheelbygk.com/)
